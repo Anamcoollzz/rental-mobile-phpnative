@@ -2,7 +2,7 @@
 
 $server = "localhost";
 $user 	= "root";
-$pass	= "";
+$pass	= "root";
 $db		= "rental_mobil";
 
 $connect = mysql_connect($server,$user,$pass);
